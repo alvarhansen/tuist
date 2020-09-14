@@ -15,7 +15,7 @@ Please, check out guidelines: https://keepachangelog.com/en/1.0.0/
 - **Breaking** UpCarthage should perform bootstrap instead of update [#1744](https://github.com/tuist/tuist/pull/1744) by [@softmaxsg](https://github.com/softmaxsg)
 - Add excluding argument to `recommended`/`essential` `DefaultSettings` [#1746](https://github.com/tuist/tuist/pull/1739) by [@rist](https://github.com/rist).
 - Synthesize resource interface accessors [#1635](https://github.com/tuist/tuist/pull/1635) by [@fortmarek](https://github.com/fortmarek)
-- The `tuist edit` command adds `Setup.swift` and `Config.swift` to the generated project if they exist.
+- The `tuist edit` command adds `Setup.swift` and `Config.swift` to the generated project if they exist [#1745](https://github.com/tuist/tuist/pull/1745) by [@laxmorek](https://github.com/laxmorek)
 
 ## 1.17.0 - Luft
 
